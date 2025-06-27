@@ -1,4 +1,4 @@
-#Adidas Sneakers Showcase 👟
+Adidas Sneakers Showcase 👟
 A beautiful, modern frontend website showcasing Adidas sneakers with stunning visuals and interactive elements.
 🚀 Features
 Visual Design
